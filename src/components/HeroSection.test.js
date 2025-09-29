@@ -2,7 +2,10 @@ import React from 'react';
 import { render, screen } from '@testing-library/react';
 import HeroSection from './HeroSection';
 
-
+/**
+ * Tests for HeroSection component.
+ * Verifies rendering of title, subtitle, button, and image.
+ */
 describe('HeroSection', () => {
   test('renders hero title', () => {
     render(<HeroSection />);
@@ -28,4 +31,3 @@ describe('HeroSection', () => {
     expect(imageElement).toBeInTheDocument();
   });
 });
-
