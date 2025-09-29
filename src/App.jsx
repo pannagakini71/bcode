@@ -8,11 +8,7 @@ import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
 import './assets/styles/main.css';
 
-/**
- * Main App component that renders the entire IELTS Institute homepage.
- * Includes navigation, hero section, features, testimonials, contact, and footer.
- * Wrapped in ErrorBoundary for error handling.
- */
+
 function App() {
   return (
     <ErrorBoundary>
