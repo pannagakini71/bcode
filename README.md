@@ -4,7 +4,7 @@ This project is a modern and professional homepage for a fictional IELTS Institu
 
 ## Repository
 
-GitHub Repo: https://github.com/pannagakini71/ielts-institute-homepage (Replace with your actual repo URL after pushing).
+GitHub Repo:https://github.com/pannagakini71/bcode
 
 ## Project Structure
 
@@ -43,7 +43,7 @@ ielts-institute-homepage
 
 1. Clone the repository:
    ```
-   git clone https://github.com/pannagakini71/ielts-institute-homepage.git
+   git clone https://github.com/pannagakini71/bcode.git
    cd ielts-institute-homepage
    ```
 
