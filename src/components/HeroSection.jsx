@@ -2,11 +2,7 @@ import React from 'react';
 import './HeroSection.css';
 import heroImg from '../assets/styles/logo.png';
 
-/**
- * HeroSection component renders the main hero section of the IELTS Institute homepage.
- * Includes title, subtitle, call-to-action button, and hero image.
- * Uses role="banner" for accessibility.
- */
+
 function HeroSection() {
   return (
     <>
