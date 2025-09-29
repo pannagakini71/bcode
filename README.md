@@ -63,29 +63,7 @@ ielts-institute-homepage
    ```
    npm run build
    ```
-   - Outputs optimized files to `/build` folder for deployment (e.g., GitHub Pages, Netlify).
-
-## Screenshots
-
-Add screenshots to showcase the UI. Create a `screenshots/` folder in the root and include images (e.g., desktop/mobile views). Use tools like browser dev tools or Snipping Tool to capture.
-
-- **Desktop View - Full Page:**
-  ![Desktop Full Page](image.png)
-
-- **Hero Section:**
-  ![Hero Section](image-1.png)
-
-- **Features Section**
-  ![Features Section](image-2.png)
-
-- **Testimonials**
-  ![Testimonials ](image-3.png)
-
-- **contact**
-  ![contact](image-4.png)
-  ![footer](image-5.png)
-
-To add: Run `npm start`, capture screenshots (e.g., scroll to sections), save as PNG in `screenshots/`, and update paths above. This enhances the README for viewers.
+   
 
 ## Design Choices
 
